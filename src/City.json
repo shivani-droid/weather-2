@@ -1,0 +1,60 @@
+{
+    "user": [
+      {
+        "id": "1",
+        "name": "Pune",
+        "desc": "Clear with periodic clouds",
+        "temp": "20 °C",
+        "humidity": "52.0%"
+      },
+      {
+        "id": "2",
+        "name": "Punjab",
+        "desc": "Clear with periodic clouds",
+        "temp": "20 °C",
+        "humidity": "52.0%"
+      },
+      {
+        "id": "3",
+        "name": "Surat",
+        "desc": "Clear with periodic clouds",
+        "temp": "20 °C",
+        "humidity": "52.0%"
+      },
+      {
+        "id": "4",
+        "name": "Kolkatta",
+        "desc": "Clear with periodic clouds",
+        "temp": "20 °C",
+        "humidity": "52.0%"
+      },
+      {
+        "id": "5",
+        "name": "Ahmedabad",
+        "desc": "Clear with periodic clouds",
+        "temp": "20 °C",
+        "humidity": "52.0%"
+      },
+      {
+        "id": "6",
+        "name": "Jalgaon",
+        "desc": "Clear with periodic clouds",
+        "temp": "20 °C",
+        "humidity": "52.0%"
+      },
+      {
+        "id": "7",
+        "name": "Aurangabad",
+        "desc": "Clear with periodic clouds",
+        "temp": "20 °C",
+        "humidity": "52.0%"
+      },
+      {
+        "id": "8",
+        "name": "Banglore",
+        "desc": "Clear with periodic clouds",
+        "temp": "20 °C",
+        "humidity": "52.0%"
+      }
+    ]
+}
